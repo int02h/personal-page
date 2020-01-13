@@ -1,11 +1,11 @@
 baseURL = "https://int02h.ru/"
-languageCode = "en-us"
-title = "Daniil Popov"
+languageCode = "ru"
+title = "Даниил Попов"
 theme = "hugo-coder"
 
 [params]
-	author = "Daniil Popov"
-	info = "Android engineer and musician"
+	author = "Даниил Попов"
+	info = "Android инженер и музыкант"
 	avatarurl = "images/avatar.jpg"
     favicon_16 = "images/favicon-16x16.png"
     favicon_32 = "images/favicon-32x32.png"
@@ -14,14 +14,21 @@ theme = "hugo-coder"
     name = "Github"
     icon = "fab fa-github fa-2x"
     url = "https://github.com/int02h/"
+    weight = 1
 
 [[params.social]]
     name = "Twitter"
     icon = "fab fa-twitter fa-2x"
     url = "https://twitter.com/int02h/"
+    weight = 2
 
 [[params.social]]
     name = "Medium"
     icon = "fab fa-medium"
-    weight = 1
     url = "https://medium.com/@int02h"
+    weight = 3
+
+[[menu.main]]
+    name = "ДОКЛАДЫ"
+    weight = 1
+    url  = "/speaking/"
