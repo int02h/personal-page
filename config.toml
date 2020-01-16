@@ -5,7 +5,7 @@ theme = "hugo-coder"
 
 [params]
 	author = "Даниил Попов"
-	info = "Android инженер и музыкант"
+	info = "Android-инженер и музыкант"
 	avatarurl = "images/avatar.jpg"
     favicon_16 = "images/favicon-16x16.png"
     favicon_32 = "images/favicon-32x32.png"
