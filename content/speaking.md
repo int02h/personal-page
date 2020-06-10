@@ -17,3 +17,7 @@
 * **Учимся на плохих примерах: SOLID в Android**  
 	[MadConf](https://madconf.ru/). Ульяновск, ноябрь 2019  
 	[Слайды](/docs/slides/solid-android-madconf.pdf)
+
+* **Как я несколько дней искал ошибку в многопроцессном приложении**  
+	[Android Dev Virtual Meetup](https://www.youtube.com/channel/UCNl3pPDAm7dCgsu8wdVjF3g). Апрель, 2020  
+	[Видео](https://www.youtube.com/watch?v=WdDWw145myk), [Слайды](/docs/slides/multi-process-fix.pdf)
